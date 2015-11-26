@@ -2,7 +2,7 @@
 Contributors: mikejolley
 Tags: eu vat, woocommerce, digital goods, taxes
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.4
 Stable tag: 1.0.0
 
 Syncs 2 Tax Classes (named Digital Goods and eBooks) with https://github.com/mikejolley/EU-VAT-Rates-for-Digital-Goods/ monthly.
