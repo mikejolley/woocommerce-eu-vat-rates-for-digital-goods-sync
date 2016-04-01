@@ -7,7 +7,7 @@ Version: 1.0.0
 Author: Mike Jolley
 Author URI: http://mikejolley.com
 Requires at least: 3.8
-Tested up to: 4.4
+Tested up to: 4.5
 Text Domain: woocommerce-eu-vat-rates-for-digital-goods-sync
 Domain Path: /languages
 
